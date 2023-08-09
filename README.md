@@ -5,6 +5,6 @@
 ![](https://img.shields.io/badge/OpenDataCube-v1.8-blue)
 [![Hecho con Jupyter](https://img.shields.io/badge/Hecho%20con-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
-Este repositorio contiene una serie de notebooks para funcionar con el DataCube Chile. Está dividido en niveles de dificultad y por ahora, sólo está disponible el entrenamiento [básico](/basic), que sienta los primeros lineamientos para comenzar a trabajar en el cubo de datos.
+Este repositorio contiene una serie de notebooks para funcionar con el DataCube Chile. Está dividido en niveles de dificultad y por ahora, sólo está disponible el entrenamiento [básico](/básico), que sienta los primeros lineamientos para comenzar a trabajar en el cubo de datos.
 
 En un futuro cercano, se agregará más material en diferentes niveles.

@@ -1,7 +1,7 @@
 # DataCube Entrenamiento &#127758;
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-blue.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-![](https://img.shields.io/badge/Versi%C3%B3n-1.1-green)
+![](https://img.shields.io/badge/Versi%C3%B3n-2.2-green)
 ![](https://img.shields.io/badge/OpenDataCube-v1.8-blue)
 [![Hecho con Jupyter](https://img.shields.io/badge/Hecho%20con-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 

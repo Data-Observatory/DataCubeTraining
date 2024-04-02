@@ -5,6 +5,10 @@
 ![](https://img.shields.io/badge/OpenDataCube-v1.8-blue)
 [![Hecho con Jupyter](https://img.shields.io/badge/Hecho%20con-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
-Este repositorio contiene una serie de notebooks para funcionar con el DataCube Chile. Está dividido en niveles de dificultad y por ahora, sólo está disponible el entrenamiento [básico](/básico), que sienta los primeros lineamientos para comenzar a trabajar en el cubo de datos.
+Este repositorio contiene una serie de notebooks para funcionar con el DataCube Chile. Está dividido en niveles de dificultad y por ahora, está disponible el entrenamiento:
 
-En un futuro cercano, se agregará más material en diferentes niveles.
+- [básico](/básico), que sienta los primeros lineamientos para comenzar a trabajar en el cubo de datos.
+- [intermedio](/intermedio), que permite comprender el uso de computo distribuido en el trabajar del cubo de datos.
+- [samsara](/samsara), que muestra la utilización de [lib-samsara](https://github.com/Data-Observatory/lib-samsara) en el cubo de datos, como ejemplo del proyecto [Samsara](https://www.dataobservatory.net/projects/samsara).
+
+En un futuro cercano, se seguirá agregando material en diferentes niveles.
